@@ -1,1 +1,1 @@
-# Syntecxhub_Project_Name
+# Syntecxhub_Project
